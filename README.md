@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello%20World!&fontSize=80&animation=fadeIn&fontAlignY=35&desc=MJ%20,%20Full-stack%20Developer&descAlignY=55&descAlign=60"/>
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Building+Scalable+Systems;Love+Open+Source;Always+Learning" alt="Typing SVG" />
-  </a>
-</div>
-
 <br/>
 
 ### 👨‍💻 About Me
@@ -29,7 +23,7 @@
   
   <p><b>Backend & Database</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,python,nodejs,express,nestjs,mysql,postgres,mongodb&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,nodejs,express,nestjs,mysql,postgres,mongodb&perline=12" />
   </a>
 
   <br/><br/>
