@@ -29,9 +29,9 @@
 
   <text x="52" y="118" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" fill="#3B82F6" fill-opacity="0.7">$ whoami</text>
   <text x="52" y="150" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-weight="700" font-size="34" fill="#F5F5F5">MJ <tspan fill="#3B82F6">/</tspan> Full-Stack Developer</text>
-  <text x="52" y="178" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8B8B8B">Web systems, cloud architecture, and clean, dependable code.</text>
+  <text x="52" y="178" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8B8B8B" textLength="486">Web systems, cloud architecture, and clean, dependable code.</text>
 
-  <rect x="52" y="184" width="10" height="16" fill="#3B82F6">
+  <rect x="546" y="167" width="9" height="15" fill="#3B82F6">
     <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1.2s" repeatCount="indefinite"/>
   </rect>
 
